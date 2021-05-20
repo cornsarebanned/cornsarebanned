@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cornsarebanned
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning React.js, Next.js, Tailwind CSS
